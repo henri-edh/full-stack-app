@@ -3,3 +3,4 @@
 /.DS._Store
 /.idea
 /.log
+**/.env
